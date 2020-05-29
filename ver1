@@ -1,0 +1,14 @@
+!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <!-- basic.html -->
+  <title>BAHN Email Form</title>
+  <meta charset = "UTF-8" />
+</head>
+<body>
+  <h1>BAHN Email Form</h1>
+  <p>
+    This form will automatically send an email to the listed below politicians with the submitted information.
+  </p>
+</body>
+</html>
